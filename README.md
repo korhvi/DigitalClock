@@ -43,3 +43,8 @@ This is a simple digital clock application built using Python and PyQt5. The app
 - Switch Modes: Click the "Switch to Night Mode" button to toggle between day and night modes.
 - Adjust Opacity: Use the slider at the bottom of the window to adjust the window's opacity. The opacity ranges from 30% to 100%.
 - Real-Time Display: The current time is displayed in the center of the application window and is updated every second.
+
+
+## Screenshots:
+<div align="center"> <p>Low Capacity Day Mode:</p> <img src="https://github.com/user-attachments/assets/427f14c1-72f9-436a-959e-41f35975a0ca" alt="Low Capacity Day Mode" /> </div> <div align="center"> <p>High Capacity Night Mode:</p> <img src="https://github.com/user-attachments/assets/a3970300-c522-4531-8ac3-dc7842006e20" alt="High Capacity Night Mode" /> </div>
+
